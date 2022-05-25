@@ -1,5 +1,5 @@
 <div align="center">
- <img width="1000" src="https://raw.githubusercontent.com/tsukimio/.github/main/%E3%81%A4%E3%81%8D%E3%81%BF%E3%81%8A%20banner.svg">
+ <img width="1000" src="https://raw.githubusercontent.com/tsukimio/.github/main/tsukimio-banner2.svg">
 </div>
 
 
