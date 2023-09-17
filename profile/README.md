@@ -7,6 +7,4 @@
 
 This organization hosts multiple different projects, mainly centered around modification of Android. Feel free to contribute to any of the repositories, as help is much appreciated <img src="https://user-images.githubusercontent.com/57784409/159374966-637abe65-2fbc-48e1-894b-7b6883e4a4bd.png" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/smiling-face-with-smiling-eyes_1f60a.png" width="15" height="15" />.
 
-Want to reach out? Feel free to contact us at [contact@tsukimio.tech](mailto:contact@tsukimio.tech), or message us on Telegram [@tsukimio_discussion](https://t.me/tsukimio_discussion).
-
-We also release announcements for our projects on Telegram [@tsukimio](https://t.me/tsukimio), and may later update our website to showcase our projects <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/thumbs-up_1f44d.png" width="15" height="15" />.
+Want to reach out? Feel free to contact us at [hi@tsukim.io](mailto:hi@tsukim.io).
